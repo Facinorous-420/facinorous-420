@@ -17,7 +17,6 @@ Come get the sauce.
 
 ![Snake animation](https://github.com/facinorous-420/facinorous-420/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center"> 
-  Visitor count<br>
-  ![](https://komarev.com/ghpvc/?username=facinorous-420&color=dc143c)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=facinorous-420&color=282a36" />
 </p>
