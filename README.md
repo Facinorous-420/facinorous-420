@@ -19,5 +19,5 @@ Come get the sauce.
 
 <p align="center"> 
   Visitor count<br>
-  ![Profile Views](https://komarev.com/ghpvc/?username=facinorous-420&color=dc143c)
+  ![](https://komarev.com/ghpvc/?username=facinorous-420&color=dc143c)
 </p>
